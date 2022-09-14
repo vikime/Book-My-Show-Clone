@@ -1,0 +1,2 @@
+# Book-My-Show-Clone
+It is a clone of book my show website. To create this website i used various teck stack like Html,CSS And Javascript for frontend. Also  for backend i used laravel framework. In this framework, for backend logic i used PHP language here. So in this website you can see various movies on home page and after that if you want to watch any movie press watch button and you will redirect to seat booking page there you can select seat and movie. At last you will redirect to payment page.
